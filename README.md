@@ -70,8 +70,7 @@ How to run
 
 	1.	Install Python 3 (recommended 3.10+)
 	2.	Clone the repository:
-git clone https://github.com/YOUR_USER/YOUR_REPOSITORY.git
-
+git clone https://github.com/raphafreitass1982/FIAP.git
 	3.	Go into the folder:
 cd YOUR_REPOSITORY
 
